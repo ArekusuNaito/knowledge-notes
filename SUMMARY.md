@@ -10,3 +10,7 @@
 * [Inventory](systems/inventory.md)
 * [Bakery](systems/bakery.md)
 
+## References
+
+* [References](finally/references.md)
+
