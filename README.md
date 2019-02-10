@@ -1,8 +1,8 @@
----
-description: Game Design Notes by Alex Salas
----
-
 # Welcome!
+
+{% hint style="warning" %}
+If you are reading this from Github, I suggest you to read this in Gitbook. [https://arekusunaito.gitbook.io/game-design/](https://arekusunaito.gitbook.io/game-design/)
+{% endhint %}
 
 Welcome! This is going to be a repository where I'm going to write about _Game Design_ and _Video Game_ Systems \(from the Software Engineering POV\).
 
