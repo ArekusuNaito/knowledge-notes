@@ -64,6 +64,10 @@ Because that sensation of time passing by quickly is what we like, we get entert
 
 But there's also _Work_, _apparently_ Work and Fun are mutually exclusive, or that's what adults teach us when we are kids. We know it's not true, because we can enjoy our time working. But we are not talking about Work, so let's not dive deep into that topic \(Don't get me wrong, we can dive more into that and it can help us discern even more!\)
 
+#### Rules
+
+We can say it's what delimits what the internal game systems are allowed to do. Not just what a player can do.
+
 ####  Making a new definition of game.
 
 Alright, with all of this we can try to add more substance to the definition of Game. Here's a definition
