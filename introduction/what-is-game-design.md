@@ -30,7 +30,7 @@ But from my experience, there's a missing component in those definitions. That i
 
 > The Game is _Fun._ If it's not fun, why  bother? ~ Reggie Fils Aime, President of Nintendo of America
 
-The President of Nintendo of America mentions _Fun_ immediately.  He even mentions a _battle_ which, with the previous definitions we can consider as the _Conflict and Objectives,_ since we have to win the battle_._ 
+The President of Nintendo of America mentions _Fun_ immediately.  He even mentions a _battle;_ which, with the previous definitions we can consider as the _Conflict and Objectives,_ since we have to win the battle_._ 
 
 #### Conflict
 
@@ -60,7 +60,7 @@ I agree with the Spanish definition, how can we forget that famous ...
 
 > "Time flies when you're having fun"
 
-Because that sensation of time passing by quickly is what we like, we get entertained. Considered as well a _Hobby_ or a _Pastime_, because Time passes.
+That sensation of time quickly passing by is what we like, we get entertained. Considered as well a _Hobby_ or a _Pastime_, because Time passes.
 
 But there's also _Work_, _apparently_ Work and Fun are mutually exclusive, or that's what adults teach us when we are kids. We know it's not true, because we can enjoy our time working. But we are not talking about Work, so let's not dive deep into that topic \(Don't get me wrong, we can dive more into that and it can help us discern even more!\)
 
