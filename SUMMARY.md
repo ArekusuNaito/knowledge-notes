@@ -6,6 +6,11 @@
 
 * [What is Game Design?](introduction/what-is-game-design.md)
 * [What is Software Engineering?](introduction/what-is-software-engineering.md)
+* [Components of a Top Down Game 🎮 ~ A Legend of Zelda Case Study](introduction/components-of-a-top-down-game-a-legend-of-zelda-case-study.md)
+
+## Game Design
+
+* [Experience](game-design/experience.md)
 
 ## Systems
 
@@ -13,7 +18,7 @@
 * [Inventory](systems/inventory.md)
 * [Bakery](systems/bakery.md)
 
-## References
+## References <a id="finally"></a>
 
 * [References](finally/references.md)
 
