@@ -11,6 +11,7 @@
 ## Game Design
 
 * [Experience](game-design/experience.md)
+* [Availability of game's contents over the years](game-design/untitleavailability-of-games-contents-over-the-yearsd.md)
 
 ## Systems
 
