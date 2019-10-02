@@ -6,12 +6,12 @@
 
 * [What is Game Design?](introduction/what-is-game-design.md)
 * [What is Software Engineering?](introduction/what-is-software-engineering.md)
-* [Components of a Top Down Game 🎮 ~ A Legend of Zelda Case Study](introduction/components-of-a-top-down-game-a-legend-of-zelda-case-study.md)
+* [Experience](introduction/experience.md)
 
 ## Game Design
 
-* [Experience](game-design/experience.md)
 * [Availability of game's contents over the years](game-design/untitleavailability-of-games-contents-over-the-yearsd.md)
+* [Components of a Top Down Game 🎮 ~ A Legend of Zelda Case Study](game-design/components-of-a-top-down-game-a-legend-of-zelda-case-study.md)
 
 ## Systems
 
@@ -22,4 +22,8 @@
 ## References <a id="finally"></a>
 
 * [References](finally/references.md)
+
+## Fireplace Development
+
+* [Introduction](fireplace-development/introduction.md)
 
