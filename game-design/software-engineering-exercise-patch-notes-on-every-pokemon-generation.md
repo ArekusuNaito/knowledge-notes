@@ -359,11 +359,15 @@ Being the second generation, I will only list new stuff or updated versions of o
             - Tune to listen to locations of some pokemon.
             - Tune to listen to music, like a real radio!
             - Tune to listen to your Lucky Number, if you entered the Lucky Number show. You can get a prize
-            - [Interesting game feel] The evolution transmission ways used to force magikarp to evolve. This could be a potential mechanic during that part of the game, should not be harmful, as even if you bring a low level Magikarp, you would get a low level Gyarados, which will probably be useless because of the same thing, being a low level Pokemon. It is a good detail that, if people tell you about a radio transmission, since you have a radio, you can tune in and listen for yourself what is going on.
-            - [Interesting game feel] At the Ruins of Alph youO can tune this station to listen to a (for me) is a very creepy thing, but it helps with the game immersion. They seem to be the Unown cries.
+            - [Interesting game feel] 
+                - Lorewise, The evolution transmission was used to force magikarp to evolve, Team Rocket created this transmission, and this is the reason of why the Red Gyarados exists. 
+                - [Serebii](https://www.serebii.net/crystal/pokegear.shtml) lists that the Evolution tranmissions's effect is to force Magikarp to evolve. I tried to do this myself and it doesn't seem to be true, I caught a Magikarp, tuned in the tranmission, I even leveled up a Magikarp to level 11 with the tuned transmission and it never happened, my magikarp NEVER evolved using the transmission.
+                - The magikarp forcing evolution had potential as a mechanic during that part of the game (and future Pokemon games could as well potentially base other evolution methods in this creepy things). Evolving a low level magikarp is not harmful game-design wise, as even if you bring a low level Magikarp, you would get a low level Gyarados, which will probably be useless because of the same thing, plus trainers have stronger Pokemon than level 20. Plus there are many Pokemon in-game that they should not even exists, you probably have seen a Lv.7 Pidgeotto in older games.
+                - The fact that you can use  the radio and tune in the evolution transmission is a good detail, but it would probably be something weird and even a morale dilemma tu use it, which would be a reason to scrap them for "a kids game".
+            - [Interesting game feel] At the Ruins of Alph you can tune this station to listen to a creepy thing, but it helps with the game immersion. They seem to be the Unown cries.
             - In Kanto, tune in a station to Increase Wild Encounters
             - In Kanto, tune in a station to Decrease Wild Encounters
-        - As game system summary (from the previous point)
+        - As a game system, this is what the radio allows you to do (using the info from the previous point)
             - Lucky Number. Chance to Win an Item
             - Decision to change your game music
             - Obtain Pokemon locations
