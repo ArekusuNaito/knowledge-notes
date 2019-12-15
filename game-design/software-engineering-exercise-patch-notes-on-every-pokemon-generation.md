@@ -28,28 +28,28 @@ Huge thanks to [Serebii](https://www.serebii.net/), [Bulbapedia](https://bulbape
 
 
 ## Quick Navigation
-- [Generation I Mechanics](###Generation-I)
-- [Generation II Mechanics](###Generation-II)
-- [Generation III Mechanics](###Generation-III)
-- [Generacion IV Mechanics](###Generation-IV)
-- [Generation V Mechanics](###Generation-V)
-- [Generation VI Mechanics](###Generation-VI)
-- [Generacion VII Mechanics](###Generation-VII)
-- [Generacion VIII Mechanics](###Generation-VIII)
-- [Appendix](##Appendix)
-    - [Forms Considerations](###forms-considerations)
-        - [List of Battle Impact Variations](###variations-that-have-an-impact-in-battle:-205-variations-from-136-species)
-        - [List of Skin Variations](###variations/skins-that-**don't**-have-an-impact-in-battle:-257-variations-from-119-species)
-    - [Taxonomy of Pokemon Forms](###classifications-of-pokemon-forms)
-        - [Pokemon with Formes](###pokemon-with-"formes")
-        - [List of Gender variations](###gender-difference-forms)
-        - [List of Regional variations](###regional-forms)
-        - [List of Mega Evolutions](###mega-evolutions)
-        - [List of Primal Reversion variations](###primal-reversion)
-        - [List of Gigantamax](###gigantamax-forms)
-    - [Attack Dex](###attack-dex)
-    - [Ability Dex](###ability-dex)
-    - [Items Info](###items-info)
+- [Generation I Mechanics](#Generation-I)
+- [Generation II Mechanics](#Generation-II)
+- [Generation III Mechanics](#Generation-III)
+- [Generacion IV Mechanics](#Generation-IV)
+- [Generation V Mechanics](#Generation-V)
+- [Generation VI Mechanics](#Generation-VI)
+- [Generacion VII Mechanics](#Generation-VII)
+- [Generacion VIII Mechanics](#Generation-VIII)
+- [Appendix](#Appendix)
+    - [Forms Considerations](#forms-considerations)
+        - [List of Battle Impact Variations](#variations-that-have-an-impact-in-battle:-205-variations-from-136-species)
+        - [List of Skin Variations](#variations/skins-that-**don't**-have-an-impact-in-battle:-257-variations-from-119-species)
+    - [Taxonomy of Pokemon Forms](#classifications-of-pokemon-forms)
+        - [Pokemon with Formes](#pokemon-with-"formes")
+        - [List of Gender variations](#gender-difference-forms)
+        - [List of Regional variations](#regional-forms)
+        - [List of Mega Evolutions](#mega-evolutions)
+        - [List of Primal Reversion variations](#primal-reversion)
+        - [List of Gigantamax](#gigantamax-forms)
+    - [Attack Dex](#attack-dex)
+    - [Ability Dex](#ability-dex)
+    - [Items Info](#items-info)
 
 ## Mechanics
 
@@ -1936,7 +1936,7 @@ Nintendo 3DS: 2013
 
 ---
 
-## Generation VII
+### Generation VII
 
 Nintendo 3DS: 2016
 
@@ -2787,6 +2787,7 @@ Many of these Pokemon have their small differences, making it a small segregatio
 ### Variations that have an Impact in Battle: 205 Variations from 136 Species
 They are not split with species, and the original form is ignored, we are counting non-original forms.
 - Special Cases are for Pokemon multiple DIFFERENT forms. Eg. Having Megas and Gigas. Is different than having 3 forms like Deoxys.
+
 ```
     - Total: 53+7+30+32+17+13+28+25=205 Forms from 41+7+26+11+13+8+7+23=136 Species
     - Kanto: 16+11+16+5+5= 53 Forms from 4+11+16+5+5= 41 Species
@@ -2979,10 +2980,12 @@ They are not split with species, and the original form is ignored, we are counti
             - Duraludon (1)
             - Eternatus (1)
                 - Unobtainable in game, only as boss fight.
-
 ```
+
+
 ### Variations/Skins that **DON'T** have an Impact in Battle: 257 Variations from 119 Species
 Note: There are Pokemon that have forms with BOTH impact in battle and not impact.
+
 ```
     - Total: 30+50+18+35+9+42+9+64=257 Variations 24+24+18+34+5+7+4+3=119 Species
     - Kanto: 23+7=30 Forms from 24 Species
@@ -3127,6 +3130,7 @@ Note: There are Pokemon that have forms with BOTH impact in battle and not impac
         - Sinistea (1)
         - Polteageist (1)
 ```
+
 ### Classifications of Pokemon Forms
 
 ```
