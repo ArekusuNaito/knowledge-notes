@@ -12,7 +12,7 @@
 
 * [Availability of game's contents over the years](game-design/untitleavailability-of-games-contents-over-the-yearsd.md)
 * [Components of a Top Down Game 🎮 ~ A Legend of Zelda Case Study](game-design/components-of-a-top-down-game-a-legend-of-zelda-case-study.md)
-* [Patch Notes on Every Pokemon Generation 🧤](game-design/software-engineering-exercise-patch-notes-on-every-pokemon-generation.md)
+* [Patch Notes on Every Pokemon Generation](game-design/software-engineering-exercise-patch-notes-on-every-pokemon-generation.md)
 
 ## Systems
 
