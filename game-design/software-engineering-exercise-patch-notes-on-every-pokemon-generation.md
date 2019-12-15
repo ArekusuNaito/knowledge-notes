@@ -28,20 +28,20 @@ Huge thanks to [Serebii](https://www.serebii.net/), [Bulbapedia](https://bulbape
 
 
 ## Quick Navigation
-- [Generation I Mechanics](#Generation-I)
-- [Generation II Mechanics](#Generation-II)
-- [Generation III Mechanics](#Generation-III)
-- [Generacion IV Mechanics](#Generation-IV)
-- [Generation V Mechanics](#Generation-V)
-- [Generation VI Mechanics](#Generation-VI)
-- [Generacion VII Mechanics](#Generation-VII)
-- [Generacion VIII Mechanics](#Generation-VIII)
-- [Appendix](#Appendix)
+- [Generation I Mechanics](#generation-i)
+- [Generation II Mechanics](#generation-ii)
+- [Generation III Mechanics](#generation-iii)
+- [Generacion IV Mechanics](#generation-iv)
+- [Generation V Mechanics](#generation-v)
+- [Generation VI Mechanics](#generation-vi)
+- [Generacion VII Mechanics](#generation-vii)
+- [Generacion VIII Mechanics](#generation-viii)
+- [Appendix](#appendix)
     - [Forms Considerations](#forms-considerations)
-        - [List of Battle Impact Variations](#variations-that-have-an-impact-in-battle:-205-variations-from-136-species)
-        - [List of Skin Variations](#variations/skins-that-**don't**-have-an-impact-in-battle:-257-variations-from-119-species)
+        - [List of Battle Impact Variations](#variations-that-have-an-impact-in-battle-205-variations-from-136-species)
+        - [List of Skin Variations](#variations-skins-that-dont-have-an-impact-in-battle-257-variations-from-119-species)
     - [Taxonomy of Pokemon Forms](#classifications-of-pokemon-forms)
-        - [Pokemon with Formes](#pokemon-with-"formes")
+        - [Pokemon with Formes](#pokemon-with-formes)
         - [List of Gender variations](#gender-difference-forms)
         - [List of Regional variations](#regional-forms)
         - [List of Mega Evolutions](#mega-evolutions)
@@ -236,7 +236,7 @@ The beginning of our journey.
     - If during your playthrough you didn't get Articuno, Zapdos and Moltres, this is a good moment to go and explore these 3 dungeons, the most missable is the Power Plant.
     - Some say that it's also good to collect all TMs. Worth mentioning.
 
-[Return to Navigation](#Quick-Navigation)
+[Return to Navigation](#quick-navigation)
 
 ---
 
@@ -425,7 +425,7 @@ Being the second generation, I will only list new stuff or updated versions of o
 - [IMPORTANT] Capable of trading Pokemon between both generations. The first 151 are 2-way tradeable, while the new 100 can only be traded between the second generation games (which is expected).
 
         
-[Return to Navigation](#Quick-Navigation)
+[Return to Navigation](#quick-navigation)
 
 ---
 
@@ -667,7 +667,7 @@ We are gonna talk here about Ruby, Sapphire and Emerald. The remakes will not be
     - This is the first time the trainer card is _relevant_. While it appeared in the previous generation, you can get stars for completing specific tasks. Every post-game activity I listed, except for the trick house.
 
 
-[Return to Navigation](#Quick-Navigation)
+[Return to Navigation](#quick-navigation)
 
 ---
 
@@ -1540,7 +1540,7 @@ This is a good step forward, the bad thing is that they are still releasing 2 di
             - 3 New Forms for existing Pokemon blocked behind a paywall f 3 dollars.
     - The Unova Link is probably one of the features that also helped raise the expecations bar for the games. Who knows, this could probably be called the Golden Era of Pokemon from Generation 1-5. There's so much content in the fourth and fifth generation.
 
-[Return to Navigation](#Quick-Navigation)
+[Return to Navigation](#quick-navigation)
 
 ---
 
@@ -1932,7 +1932,7 @@ Nintendo 3DS: 2013
             - Tell my fortune
     - OR/AS had a great post-game story called "Episode Delta", which could be considered the new stuff that could be added to a game called "Pokemon Delta Emerald". Why make a third version when you can add that content to the original games? It was a nice touch and it expanded the lore, multiple universes where confirmed within this post-game.
 
-[Return to Navigation](#Quick-Navigation)
+[Return to Navigation](#quick-navigation)
 
 ---
 
@@ -2381,7 +2381,7 @@ Here's the next list of features, covering the Seventh generation. Only Sun/Moon
 - This is probably the special versions that seem to add less content to the games. The inclusion of "more story" is something you have to expect and that is a must because... well, they are selling another product. So, overall its even more dissapointing considering how the Hoenn Remakes expanded more things, and how Pokemon Black/White 2 were actual sequels and nost just a re-skinned version of the game. If players already thought that it's unethical to sell the special versions, the ultra versions really shout out how they had to be the original versions of the generation, and probably make a sequel of them, not only that, this is the first time there are 2 Special Upgrade versions, as BW2 are sequels.
 
 
-[Return to Navigation](#Quick-Navigation)
+[Return to Navigation](#quick-navigation)
 
 ---
 
@@ -2745,7 +2745,7 @@ Pokemon now moved to the Home Consoles and with it, we can expect that since the
         - Capture your legendary mascot here? This
 
 
-[Return to Navigation](#Quick-Navigation)
+[Return to Navigation](#quick-navigation)
 
 ---
 
@@ -3659,4 +3659,4 @@ Up until Gen 7, there's  959 different items, although there are many blanks in 
 ---
 
 
-[Return to Navigation](#Quick-Navigation)
+[Return to Navigation](#quick-navigation)
