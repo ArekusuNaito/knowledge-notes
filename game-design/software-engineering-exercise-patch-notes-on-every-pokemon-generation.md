@@ -225,6 +225,18 @@ The beginning of our journey.
         - SS Anne
         - Victory Road
         - Viridian Forest
+- Added Pokemon Events
+    - These Pokemon are in the game maps as sprites, these Pokemon are not find in the wild, it also makes you wonder what makes them so special, and many players wanted to know more about the lore with them
+        - Pokemon List
+            - Snorlax
+            - As Fossils
+                - Omanyte
+                - Kabuto
+            - Articuno
+            - Zapdos
+            - Moltres
+            - Mewtwo
+
 - Objectives
     - Get 8 Gym Badges
         - Become the Pokemon Champion
@@ -256,7 +268,8 @@ Being the second generation, I will only list new stuff or updated versions of o
         - Special Defense
     - Gender (Male, Female, Genderless)
 - Pokedex
-    - Added 100 New Pokemon for a total of 251
+    - Added 100 New Pokemon
+    - Total of 251 Pokemon
     - Connection with Game Boy Printer
     - Pokemon had footprints
     - Option Mode
@@ -275,6 +288,7 @@ Being the second generation, I will only list new stuff or updated versions of o
     - Total Capacity
         - 280 Pokemon (Non-Japan)
         - 270 Pokemon (Japan)
+    - Added Capacity to rename boxes. 
 - Items
     - Items now have official categories, separated as "Pockets".
         - Items
@@ -293,19 +307,22 @@ Being the second generation, I will only list new stuff or updated versions of o
 - [UPDATED] Itemfinder
     - Works like the first generation.
     - Now considered a Key Item, meaning that you can use Register the item and do some quick checkings, instead of just opening the bag.
-- Pokemon Battles
+- [UPDATED] Pokemon Battles
     - Added 2 new types for a total of 17 types. (Steel, Dark)
-        - Old Pokemon change types due to this.
-- Pokemon Day care
+        - Old Pokemon were reworked to change types due to this. (Eg. Magnamite is now steel)
+- [UPDATED] Pokemon Day care
     - Improved mechanics. You can now leave 2 Pokemon.
     - When leaving 2 Pokemon, these can breed and you can get an egg.
     - Breeding is introduced. By breeding you can get new Pokemon like Pichu, Iglybuff, Clefa, etc.
     - Implemented Egg Groups
-- Pokemon Forms
+- Added Pokemon Forms
     - "Forms" are not a thing until the third generation, but this is the beginning of that.
-    - Unown has 26 different forms (or sprites). Each letter is a different "form".
-    - Shiny Pokemon are introduced, if in this generation a different sprite is a different "form", then all 251 Pokemon (plus other 25 Unonwn) have a "shiny form". (Probability to find a shiny: 1/8192) 
-- Breeding (pretty complex already, in terms of deep mechanics.)
+    - Unown has 26 different forms (or sprites). Each letter is a different "form", modern times would call it a "skin".
+    - Shiny Pokemon are introduced
+        - If in this generation a different sprite is a different "form", then all 251 Pokemon  have a "shiny form".
+        - Only certain Unonwn letters can be shiny due to how the game manages shinyness. IVs are linked to Shinyness.
+        - Probability to find a shiny: 1/8192
+- Added Breeding (pretty complex already, in terms of deep mechanicss)
     - Moves are passed to new generations.
     - Father is the one in charge of passing moves.
     - Mother determines species
@@ -316,12 +333,12 @@ Being the second generation, I will only list new stuff or updated versions of o
 - Added Move Deleter
     - In the first game, you could not remove a Hidden Move. The philosophy behind this was that players could get stuck in an area if they got rid of a Pokemon with a Hidden Move.
     - This is an NPC that will delete any move you want, even Hidden Moves.
-- Happiness
+- [UPDATED] Happiness
     - The happiness system is enhanced. Now it's not a thing of just Pikachu.
     - Every Pokemon has a happiness value.
     - Some Pokemon evolve if they are happy.
     - Moves like Return and Frustration use this Happiness value
-- Evolution Methods
+- Added New Evolution Methods
     - Added happiness
     - At certain time of the day
     - By trading AND holding an item at the same time.
@@ -341,10 +358,10 @@ Being the second generation, I will only list new stuff or updated versions of o
     - Catch 251 Pokemon
     - Defeat Red, the protagonist of the first game
 - Post Game
-    - You could say that Kanto is the real post-game. When you defeat the Elite 4, you get to see the credits. Aim for those new 8 medals.
+    - You could say that Kanto is the real post-game. When you defeat the Elite 4, you get to see the credits. Aim for those new 8 gym badges.
     - Catch the missing Pokemon to complete your Pokedex.
     - Defeat Red
-- Generation Gadget (Pokegear)
+- Added Pokegear (2nd Generation Gadget)
     - Gen II introduces a helper gadget with small helpful "apps" that improve the Quality of Life of the games.
     - It has a clock and calendar.
     - There's no more "Town Map" Item, the Pokegear has this included
@@ -384,9 +401,23 @@ Being the second generation, I will only list new stuff or updated versions of o
         - Video Game Console
         - Dolls
         - Trophies
-- Battle Tower
-    - Exclusive to only Crystal version. This is the first time the series introduces a more "balanced" battle challenge. In any game, you could be fighting weaker or stronger pokemon than the ones you have. You could start the game with  a Level 100 Celebi and beat the game with that Celebi, while the Pokemon in the story are from level 5 to level 50. The facility idea probably came from the `N64 Stadium` games, where the player participated in different cups with different rules that were more balanced than a normal playthrough. 
-    - 10 Challenges, 10 Floors. Defeat the trainers in each floor.
+- [UPDATED] Pokemon Events
+    - Lapras
+    - Sudowoodo
+    - Red Gyarados [SHINY!!]
+    - Voltorb
+    - Electrode
+    - Snorlax
+    - The Beast Trio roams in Johto
+    - Suicine [CRYSTAL ONLY]
+        - In this version it will go back to Tin Tower as an interactable Pokemon
+    - Lugia
+    - Ho-Oh
+    - Celebi [EVENT EXCLUSIVE]
+        - The first event exclusive Pokemon using the Mysterious GS Ball
+- Added The Battle Tower [CRYSTAL VERSION ONLY]
+    - This is the first time the series introduces a more "balanced" battle challenge. In any game, you could be fighting weaker or stronger pokemon than the ones you have. You could start the game with  a Level 100 Celebi and beat the game with that Celebi, while the Pokemon in the story are from level 5 to level 50. The facility idea probably came from the `N64 Stadium` games, where the player participated in different cups with different rules that were more balanced than a normal playthrough. 
+    - Added 10 Challenges in different 10 Floors. Defeat the trainers in each floor.
     - Each floor's rule is to use Pokemon of certain level. 
         - 7 Battles in a row per floor
         - At Floor 1 you can only battle with Pokemon of Level 10 an so on
@@ -395,9 +426,12 @@ Being the second generation, I will only list new stuff or updated versions of o
     - You can't use the same held item. (Eg. You can't have all 3 holding Leftovers)
     - You can't use Legendary "non-trio" Pokemon. (Mew, Mewtwo, Ho-oh, Lugia, Celebi)
     - Your reward is self-acomplishment, plus Vitamins.
-- Move Tutor (Crystal Only)
+- Added Move Tutor [CRYSTAL VERSION ONLY]
     - This NPC teaches certain moves to Pokemon. In this generation they cost Game Corner coins.
     - As long as you pay for coins, you can teach moves.
+- Added Mystery Gift
+    - Used to receive items from other games, like Pokemon Stadium 2.
+    - You could get furniture for your Room.
 - Dungeons ~ Total: 21   (Caves, Towers, Forests, Hideouts)
     - Johto
         - Sprout Tower
@@ -422,7 +456,9 @@ Being the second generation, I will only list new stuff or updated versions of o
         - Power Plant (Only one floor)
         - Rock Tunnel
         - Mt. Silver
-- [IMPORTANT] Capable of trading Pokemon between both generations. The first 151 are 2-way tradeable, while the new 100 can only be traded between the second generation games (which is expected).
+- [IMPORTANT] Added the capacity to trade Pokemon between both generations. 
+    - The first 151 are 2-way tradeable, while the new 100 can only be traded between the second generation games (which is expected).
+    - This was called the Time Capsule
 
         
 [Return to Navigation](#quick-navigation)
@@ -435,18 +471,19 @@ Game Boy Advance: 2002
 
 We are gonna talk here about Ruby, Sapphire and Emerald. The remakes will not be considered. Remakes should be improving the previous stated points from the generation been remade. As stated before, if it appears to be missing points, it's because it's something that was introduced in a previous generation and it wasn't removed in this generation, having retroactivity, also many things could slip my document, there's a lot of points here and it really took a while to write this down.
 
-- Weather is present in the map.
+- Added Weather in the Overworld
     - Rain
     - Intense sun
     - Sandstorm
-- Pokedex
+- [UPDATED] Pokedex
     - 135 New Pokemon
+    - Total of 386 Pokemon
     - Regional Mode lists 202 Pokemon.
     - Option to go to the top of the Pokedex (Treecko)
     - Option to go to the bottom (Last one the player has seen)
     - When selecting a Pokemon you can see the Size comparison versus the Player Character
-    - Search Mode
-        - Order Option (You could do easy sorting using SQL)
+    - [UPDATED] Search Mode
+        - Order Option (You could do easy sorting using SQL in modern days)
             - Order By Pokedex Number
             - Order Alphabetically
             - Order By Weight (Which is essentially descending or ascending)
@@ -468,11 +505,12 @@ We are gonna talk here about Ruby, Sapphire and Emerald. The remakes will not be
         - National Dex
             - This option must be unlocked. To upgrade the Pokedex, the player must trade Pokemon with first generation remakes. Makes sense, since it's a Pokemon that doesn't appear in the region.
     - [REMOVED] Capacity of trading Pokemon with previous generations.
-        - So how can you get all 386 Pokemon? Due to technical limitations with how the internal Pokemon data is handled this was removed, you CAN'T trade your Pokemon from generations 1 and 2. They created remakes so you could get all 386 Pokemon in any generation 3 game. A step back, but it's something they took care of.
-- Pokemon Stats
+        - So how can you get all 386 Pokemon? Due to technical limitations with how the internal Pokemon data is handled this was removed, you CAN'T trade your Pokemon from generations 1 and 2. 
+        -  They created Generation I remakes so you could get all 386 Pokemon in any generation 3 game. A step back, but it's something they took care of.
+- [UPDATED] Pokemon Stats
     - [REWORKED] IVs
     - Added the EVs: Effort Values
-    - Added Natures
+    - Added 25 Natures
     - Added Abilities
         - Added Outside of Battle Secondary effects when in your party. [EMERALD ONLY]
             - Some abilities have effects when you are in the Overworld. Eg. Magma Armor makes eggs hatch faster.
@@ -489,18 +527,19 @@ We are gonna talk here about Ruby, Sapphire and Emerald. The remakes will not be
 - Added Move Reminder
     - A very useful character. If you've ever had a Pokemon that evolved past their evolution level, chances are that a move that learns when it evolved was something your pokemon didn't learn. This character can teach your Pokemon moves that they were able to learn from previous levels.
     - This comes with a price, you have to pay him a `Heart Scale`.
-- Pokemon Battles
+- [UPDATED] Pokemon Battles
     - Introducing Double battles, fight 2v2!
         - Introducing Multi-battles! Essentially a double battle, but you can only control one Pokemon. Your ally Pokemon is controlled by another player. The 2 enemy pokemon are controlled by 2 opposing trainers. 4 Trainers, 4 Pokemon.
-- New Pokemon Forms
+- [UPDATED] New Pokemon Forms
     - This generation introduces "real" Pokemon forms. 
-        - Castform has 4 forms, every form has a different type (which has an impact on pokemon battles), unlike Unown which is just another "sprite. But still, remember that those sprites had to be designed and added to the game.
+        - Castform has 4 forms.
+            - every form has a different type (which has an impact on pokemon battles), unlike Unown which is just another "sprite. But still, remember that those sprites had to be designed and added to the game.
         - Deoxys changes form depending on the version he is in.
             - 4 Forms
 - [REMOVED] Your Room
     - [EQUIVALENT] Secret Bases
         - Overall, an improvement of "Your Room" from gen 2.
-- Items
+- [UPDATED] Items
     - [UPDATED] Categories are like this now
         - Items
         - Pokeballs
@@ -518,15 +557,16 @@ We are gonna talk here about Ruby, Sapphire and Emerald. The remakes will not be
             - Repeat Ball
             - Timer Ball
 - [UPDATED] PC Storage System
+    - Added the capacity of changing the wallpaper
     - Total Boxes: 14
     - Box Capacity: 30
     - Total Capacity: 420
 - Mirage Island (Random Event to encounter this misterious island)
     - While in modern times this might be silly. Back in the day when not everyone had internet, this was something people talked about.
-- Battle Tower
+- [UPDATED] Battle Tower
     - Your pokemon are NOT auto-leveled, you must have Level 50 or Level 100 pokemon, this can be time consuming.
-    - [Removed] No more 10 Floors, 10 Challenges.
-    - [Updated] 2 Formats now. Pokemon in Level 50 or Level 100.
+    - [REMOVED] No more 10 Floors, 10 Challenges.
+    - [UPDATED] 2 Formats now. Pokemon in Level 50 or Level 100.
     - Singles Mode (3v3)
     - Overall this facility has been upgraded, even if there's no more different level challenges.
 - Battle Frontier (Emerald Only)
@@ -575,10 +615,10 @@ We are gonna talk here about Ruby, Sapphire and Emerald. The remakes will not be
 - [UPDATED] Swarms
     - Instead of using phone as in generation 2. The player must watch a TV Show. Then becomes active.
     - No Longer last 30 minutes. They last a whole day.
-- Berry harvesting
+- Added Berry harvesting
     - You can find berries at harvest them.
     - You can plant berries on soil. This makes berries a renewable resource, potentially infinite overtime.
-- Pokemon Contests
+- Added Pokemon Contests
     - Every condition has 4 levels. Players are invited to conquer all conditions in Master Rank
     - Mini game that features 4 participants and a Judge. Only one Pokemon will be consider the "Coolest" or the most "Beautiful". 
     - Multiplayer was possible.
@@ -586,18 +626,19 @@ We are gonna talk here about Ruby, Sapphire and Emerald. The remakes will not be
         - Create Pokeblocks with the Berry Blender.
         - Berry blending can be multiplayer.
     - [IMPORTANT] Remember that there are `354 Moves` in this game? Well, the team had to take their time to add them a move conditio and effect in thiss game. When you play the game it doesn't feel like much, but it's still development time and effort. Consider this as one reason to add or remove the contests in future games.
-- Generation Gadget [PokeNav]
+- [UPDATED] Generation Gadget [PokeNav]
     - No more PokeGear from Gen 2.
     - [REMOVED] Radio
-    - Added condition. Check for Pokemon with certain conditions. These are the Pokemon Contests conditions.
+    - Added condition check. 
+        - Check for Pokemon with certain "condition" stats. These are the Pokemon Contests useful stats.
     - [UPDATED] Trainer Rematches. The Trainer Eyes allow you to rematch some trainers in  the game.
         - First time ever. Gym Leader Rematches (Emerald Only)
             - Double Battles
             - Sadly you can't get a rematch anytime you  want
-- [Removed] Bug-Catching Contest
-    - [Reworked] Safari Zone
+- [REMOVED] Bug-Catching Contest
+    - [REWORKED] Safari Zone
         -  You can use Pokeblocks to attrack Pokemon, instead of bait like in generation 1.
-- Record Mixing
+- Added Record Mixing
     - Need to go to a building called Record Corner
     - Television Shows will feature the players you mixed records with
     - Other players secret bases will be in your game, including the whole layout they have in their games.
@@ -619,13 +660,14 @@ We are gonna talk here about Ruby, Sapphire and Emerald. The remakes will not be
     - This is the first time you get a friendly rival. Sadly this generation has a very weak rival. You don't even get to see the final evolution of their starting pokemon. Blue and Silver are better rivals.
     - At the same time, you get a second rival, Wally.
         - Wally becomes stronger than your first Rival.
-- Two kinds of Bicycle
+- Added Two kinds of Bicycle
     - Mach Bike
         - Faster Bike
     - Acro Bike
         - You can perfom tricks
     - You can't have both bikes at the same time. From a design perspective, this just could be solved when by merging them at the end of the game, as a "reward". 
-- Stats Judge (Emerald Only)
+    - Both Bikes allowed you to proceed to different terrains.
+- Added Stats/IV Judge (Emerald Only)
     - This NPC will tell you in a "spoken language" if your Pokemon has good genes (IVs).
 - Dungeons. Total: 23 (or 30 with Trick House)
     - Abandoned Ship
@@ -652,7 +694,27 @@ We are gonna talk here about Ruby, Sapphire and Emerald. The remakes will not be
     - Victory Road
     - Trick House (Many puzzles!)
         - 8 Chambers. We can say it's one big dungeon, or 8 mini dungeons.
-- Breeeding
+- [UPDATED] Pokemon Events
+    - Like previous games, there are Pokemon you find in the Overworld and they add a layer of exploration and lore that makes players wonder why you find these pokemon this way.
+        - Pokemon List
+            - Kecleon
+            - Rayquaza
+            - Regirock
+            - Regice
+            - Registeel
+            - Latias
+                - Roams in Sapphire
+                - Interactable in Ruby with the Eon Ticket Mystery Gift (This is very exclusivity beecomes more annoying)
+            - Latios
+                - Roams in Ruby
+                - Interactable in Saphhire with the Eon Ticket Mystery Gift
+            - Groudon [RUBY ONLY]
+            - Kyogre [SAPPHIRE ONLY]
+            - Rayquaza
+            - Sudowoodo [EMERALD ONLY]
+            - Mew [EVENT EXCLUSIVE MYSTERY GIFT]
+
+- [UPDATED] Breeeding
     - This feature has been enhanced too, sadly, breeding it more technical than the average points listed here, for the sake of "layman terms", not much details will be covered, as the "philosophy" behind this too is the fact that "every pokemon is unique" and there has to be "hidden" infomation, to keep stuff like genes "special". Breeding small details could be a huge section, but we are talking about many mechanics, not just breeding, be aware that many things might just touch the surface but are even more complex inside.
     - Baby inherits 3 IVs from parents.
     - Using items, like the everstone can make a pokemon to inherit the parent's nature. 
@@ -663,7 +725,7 @@ We are gonna talk here about Ruby, Sapphire and Emerald. The remakes will not be
     - Win all Master Rank contests
     - Complete the Trick House challenges
     - Defeat 50 trainer challenge in Battle tower
-- Trainer Card
+- [UPDATED] Trainer Card
     - This is the first time the trainer card is _relevant_. While it appeared in the previous generation, you can get stars for completing specific tasks. Every post-game activity I listed, except for the trick house.
 
 
@@ -678,7 +740,7 @@ Nintendo DS: 2006
 
 The games are Diamond, Pearl and Platinum. Let's list more mechanics. There's a lot of things that improved by having 2 screens.
 
-- Transfering Pokemon from Other generations
+- Added Transfering Pokemon from Other generations
     - You can transfer Pokemon from the III to the IV generation by going to a place called the "Pal Park".
     - [REMOVED] Two-way generation transfer
     - You can only transfer one way, from third to fourth.
@@ -687,20 +749,21 @@ The games are Diamond, Pearl and Platinum. Let's list more mechanics. There's a 
 - [UPDATED] PC Storage System
     - Total Boxes: 18
     - Total Capacity: 540
-- Amity Square
+- Added Amity Square
     - 11 Pokemon from 493 can follow you at the Amity Square.
     - A special area to make Pokemon find accesories and berries
-- Pokemon following you [HEARTGOLD/SOULSILVER ONLY] 
+- Added Any Pokemon following you [HEARTGOLD/SOULSILVER ONLY] 
     - While this is a remake feature, it is a feature that pretty much everyone loves, considering that you can see your partner pokemon, remember that the Pokemon games and even the anime convey the players to create a bond with pokemon, and while this is a "useless feature" because it's just an NPC thing following you, it's something that everyone loves!
     - A feature that returns from Pokemon Yellow, this time ANY POKEMON can follow you. As long as it's the first on your party. 
     - Yes. Any Pokemon, all 493 Pokemon with their different forms and even gender differences, meaning that they had to do more than 493 sprites for every cardinal point.
     - If your pokemon is shiny it even displays as a shiny
     - Consider that this is a lot of graphical work, it's a lot of sprites.
-- Mystery Gift
-    - You can now receive gifts from the Internet!
+- [UPDATED] Mystery Gift
+    - You can now receive gifts from the Internet
     - Get wireless with the included DS Wireless communications, instead of extra hardware like in the third generation.
     - Share with friends using the "Get from friend"
-- Pokeball Seals
+    - Some gifts allow you to trigger special events in game. Like the Darkrai Event
+- Added Pokeball Seals
     - A very interesting feature that was exclusive to this Fourth generation.
     - Add seals to customize how a Pokeball will have its release animaton.
     - 13 seals to customize ANY Pokeball
@@ -734,7 +797,7 @@ The games are Diamond, Pearl and Platinum. Let's list more mechanics. There's a 
 - Items
     - [BIG UPDATE] The bag has now infinite space
         - PC ITEM Storage system is obsolete.
-    - [Update] Item Pockets are updated once again, for good.
+    - [UPDATED] Item Pockets are updated once again, for good.
         - Items
         - Medicine
         - Pokeballs
@@ -751,16 +814,18 @@ The games are Diamond, Pearl and Platinum. Let's list more mechanics. There's a 
         - Mail
         - Battle Items
         - Key Items
-- Berries
+- [UPDATED] Berries
     - Added 21 Berries
     - Total of 64 berries
     - Berry Pots [HEARTGOLD/SOULSILVER ONLY]    
         - As mentioned before, while we don't really talk about remakes, there are some features that are an improvement to the franchise.
         - There is no soil in the Johto remakes. So you can carry Berry pots, which is a key item.
         - Why is this relevant? Because there's no need to go and check your berries at certain routes. YOU CAN CHECK YOUR POTS AT ANY TIME. That's a feature that is relevant, it can be time consuming to go and check all berries.
-- Moves
-    - [BIG UPDATE] ALL MOVES had to be reworked (yes, all of them had to have a review). From Generation 1-3, move's stats were linked to the Type, Fire Type moves were always special attacks, this is, if you hit with Fire Punch which is essentially a move that is using Physical strength, but it was considered a Special Move because Fire Type moves were always Special. 
-- Games can now be connected to Internet!
+- [UPDATED] Moves
+    - [BIG UPDATE] ALL MOVES had to be reworked (yes, all of them had to have a review). 
+        - From Generation 1-3, move's stats were linked to the Type, Fire Type moves were always special attacks, this is, if you hit with Fire Punch which is essentially a move that is using Physical strength, but it was considered a Special Move because Fire Type moves were always Special. 
+    - There's a total of 467 Moves in this generation.
+- Games can now connect to Internet!
     - Use of DS friend-codes to connect with other players
     - Enjoy the old features you had in local play but you can do them over the internet now. Trade and battle with your friends online.
     - For Free, no subscription or anything.
@@ -780,7 +845,7 @@ The games are Diamond, Pearl and Platinum. Let's list more mechanics. There's a 
         - Watch your videos
         - Players can upload videos to the Global Terminal
         - Players can download videos from the Global Terminal
-- [IMPORTANT] New Pokemon Forms
+- [UPDATE/IMPORTANT] New Pokemon Forms
     - Some Pokemon now have gender differences. Which will be counted to  "skins", like Unown. 
         - Kanto: 22 Pokemon have new gender differences
             - Remember that Nidoran 🚹 and Nidoran 🚺 were the first pokemon with a notorius difference?
@@ -805,7 +870,7 @@ The games are Diamond, Pearl and Platinum. Let's list more mechanics. There's a 
     - Turnback Cave
     - Victory Road
     - Wayward Cave
-- Generation Gadget (Poketch)
+- [UPDATED] Generation Gadget (Poketch)
     - The new gadget is called the Poketch. It has 22 "in-game apps", and you could get up to 25 apps with Nintendo events.
     - [REMOVED] "Detailed" Town Map is back to be a Key Item.
         - But you can have a less detailed version of your map in your Poketch.
@@ -875,10 +940,10 @@ The games are Diamond, Pearl and Platinum. Let's list more mechanics. There's a 
             - Just a time counter.
         - Alarm Clock [Never distributed]
             - Rings an alarm given a certain time of the day.
-- Union Room
+- Added Union Room
     - Although it was introduced in FireRed and Leaf Green and then it was introduced in Emerald, these special versions are not considered for the actual normal versions of the game.
     - [REMOVED] The need of extra hardware like the Link Cable. Trades and battles can now be done with Wireless communications
-- New evolution methods
+- [UPDATED] New Evolution Methods
     - Gender based evolutions
     - Hold an specific item and then level up at a certain time of the day
     - Area evolution.
@@ -897,11 +962,11 @@ The games are Diamond, Pearl and Platinum. Let's list more mechanics. There's a 
 - [REMOVED] Pokeblocks
     - Added Poke poffins
         - This is the equivalent of Pokeblocks for the 4th generation.
-- Poke Radar
-    - A key item used to find wildd Pokemon in grass.
+- Added the Poke Radar
+    - A key item used to find wild Pokemon in grass.
     - There are Pokemon that only appear with this device, around ~44 Pokemon.
     - It is used for Shiny Hunting, because it creates chains between Pokemon
-- Underground
+- Added the Underground
     - You need an explorer kit to go to the underground
     - An area beneath Sinnoh to explore and gather rare items in the game.
         - Mining. Players can find a shiny orb at walls, when interacting with them they will play a mining minigame. Players must try to find items in this walls, if you mess up the wall will crumble and it the minigame will end, players must then find another shiny wall.
@@ -942,13 +1007,47 @@ The games are Diamond, Pearl and Platinum. Let's list more mechanics. There's a 
     - The Vs. Seeker is a Key Item you can use to have rematches with other trainers. This item was introduced in Generation 3 in FireRed and LeafGreen, we are not covering deeply remakes, so as a "real" generation game, this is the first time you can use it. It can be used with any trainer that challenges you along the game.
         - Additionally you can have daily battles at the Seven Stars Restaurant and Jublife.
         - You can also battle maids at the Pokemon Mansion
-- Your rival
+- Your Rival
     - Barry is your rival, he is strong but still friendly. It's a good rival
-- Gym leader rematches [PLATINUM AND REMAKES ONLY]
+- Added Gym leader rematches [PLATINUM AND REMAKES ONLY]
     - A missing feature in Diamond and Pearl, but it has  been brought back in Platinum and the Johto Remakes.
     - In Platinum you battle them at the "Battleground"
     - The Johto remakes make a better way of fighting gym leaders by using a "facility" called the "Fighting Dojo"
-- Heart Gold and Soul Silver Observations
+- [UPDATED] Game corner
+    - While present in Diamond/Pearl/Platinum, in the Johto remakes, and only for the NON-Japanese games, the Game Corner was replaced with "non-gambling" game called the "Voltorb Flip". This is one feature a feature created in order to not introduce gambling to kids.
+- Added Multiplayer Avatars
+    - You can select which NPC Trainer you want to be. E.g. You can select a Bug Catcher or a Rich Boy
+- [UPDATED] Pokemon events
+    - Non-exclusive Pokemon Events
+        - Drifloon
+        - Spiritomb
+        - Rotom
+        - Uxie
+        - Mesprit
+        - Azelf
+        - Dialga [DIAMOND ONLY]
+        - Palkia [PEARL ONLY]
+        - Heatran
+        - Regigigas
+            - Need of the previous generation trio. The regis to encounter this Pokemon.
+            - You will permanently lose the trio Pokemon from your third generation games after transfering them.
+        - Giratina
+        - Cresselia
+    - Exclusive Mystery Gift Events
+        - The bad thing is that there are Pokemon events that are limited to exclusive Mystery-Gifts (Eg. Darkrai, Shaymin)
+            - And for the worse part, there was an Event for Arceus, but it was never distributed officially, you can watch a Youtube video about it, if you wanna see how it was supposed to work.
+        - Pokemon List
+            - Darkrai
+            - Shaymin
+            - Arceus
+    
+- Post game
+    - [REMOVED] No more trick house
+    - Enjoy the Underground multiplayer features
+    - You could get all in-game accesories
+    - You could get all the Goods from Mr. E Goods.
+    - Defeat Charon at Stark Mountain
+- [IMPORTANT] Heart Gold and Soul Silver Remakes Observations
     - Use of Pokewalker an extra hardware included.
     - Pokemon that change form can change at certain locations in the game.
         - Deoxys
@@ -965,19 +1064,6 @@ The games are Diamond, Pearl and Platinum. Let's list more mechanics. There's a 
             - Jump
         - The goal is to get all the medals
         - These are more fun because they use the Following Pokemon sprites to play here. These minigames are more skill based, they can be kinda compared to the minigames in Pokemon Stadium 1 and 2, if you want to dig a bit more there, but remember we are not talking about those games here, only the core games.
-- [UPDATED] Game corner
-    - While present in Diamond/Pearl/Platinum, in the Johto remakes, and only for the NON-Japanese games, the Game Corner was replaced with "non-gambling" game called the "Voltorb Flip". This is one feature a feature created in order to not introduce gambling to kids.
-- Multiplayer Avatars
-    - You can select which NPC Trainer you want to be. E.g. You can select a Bug Catcher or a Rich Boy
-- Good and Bad Legendary Pokemon events
-    - The
-- Post game
-    - [REMOVED] No more trick house
-    - [ADDED] Enjoy the Underground features
-    - You could get all in-game accesories
-    - You could get all the Goods from Mr. E Goods.
-    - Defeat Charon at Stark Mountain
-
 
 
 ### Generation V
@@ -987,7 +1073,7 @@ Nintendo DS: 2010
 Pokemon Black/White and Pokemon Black/White 2. This is the first time we get two versions of the "special" versions. The good thing about this 2 new versions is that this is a sequel to the first games, meaning that they are considered different games, you even play with different protagonists. 
 This is a good step forward, the bad thing is that they are still releasing 2 different upgraded versions of a previous game, most people would just prefer to get only one game with all the features combined, this can be called an Ethical problem.
 
-- Pokedex
+- [UPDATED] Pokedex
     - [RECORD] 156 New Pokemon! The largest amount of new pokemon in a new generation.
     - Unova Pokedex: The 156 New Pokemon are in the regional dex! I personally think this is a great idea, as it gives the new pokemon their time to shine.
     - Use of a Scrollbar to move the Pokemon list in the fully functional Pokedex.
@@ -999,7 +1085,7 @@ This is a good step forward, the bad thing is that they are still releasing 2 di
             - Surfing
             - Fishing
         - [REMOVED] You can't search Pokemon by Day-Night cycle.
-    - Forms
+    - View different Forms
         - You can see the Pokemon and their different forms in the Pokedex if you see them.
             - Gender forms
             - Special forms (Like Deoxys)
@@ -1013,6 +1099,7 @@ This is a good step forward, the bad thing is that they are still releasing 2 di
     - Increases chances to find Shiny Pokemon
 - Added Oval Charm [SEQUELS ONLY]
     - Increases chances to generate an egg at the day care.
+- [REMOVED] Poke Ball Seals
 - Dungeons ~ Total: 26 (That's quite a lot! And that's not even all the areas in the games)
     - Abyssal Ruins
     - Castelia Sewers
@@ -1041,7 +1128,7 @@ This is a good step forward, the bad thing is that they are still releasing 2 di
     - Victory Road BW2
     - Wellspring Cave
 - There are 3 trios in this game.
-- Certain stuff of the game are different
+- New Game Version differences
     - Areas
         - Black City ~ Exclusive to Black
         - White Forest ~ Exclusive to White
@@ -1068,21 +1155,21 @@ This is a good step forward, the bad thing is that they are still releasing 2 di
         - Free Space (Black and White 2 Only)
             - Good idea!!. Players can place any item they want on this free pocket!
 - "New" Pokeballs
-    - Basically, no new pokeballs.
     - Still no ways to get apricorn balls
     - [REMOVED] Park Ball
         - [EQUIVALENT] Added Dream Ball. A New Pokeball with 100% catchrate that can only be used to catch Pokemon from the Dream World.
+    - Basically, no new relevant pokeballs, as the Dream Ball is just a gimmick for Dream World.
 - [UPDATED] PC Storage System
     - Total Boxes: 24
     - Total Capacity: 720
     - Added the Battle Box
         - Place 6 Pokemon in this box, as way to have a quick access for battle features in the various game modes.
-- New evolution methods
+- [UPDATED] New Evolution Methods
     - Trade 2 specific pokemon for an evolution (Karrablast and Shelmet)
     - With Pokemon contests removed and the Condition Feebas can't evolve with the original method, you have to use a "Prism Scale" and trade Feebas to get a Milotic. You can always transfer one from previous generations
     - Location Based evolutions 
         - New locations where they can evolve
-- Pokemon battles and capture
+- [UPDATED] Pokemon battles and capture
     - Pokemon sprites are now FULLY ANIMATED instead of intro animations only present in special version [Crystal,Emerald,Platinum]
     - Added Triiple Battles
     - Added Rotation Battles
@@ -1113,7 +1200,7 @@ This is a good step forward, the bad thing is that they are still releasing 2 di
     - Holding an everstone guarantees passing a Pokemon's nature
     - Abilities have more chances to pass down to baby Pokemon coming from the Mother
     - Incubating items at the Join Avenue [Black and White 2]
-- New Forms.
+- Added New Forms.
     - Basculin has 2 forms. They have different abilities
     - Darmanitan has 2 forms. Changes in battle
     - Deerling has 4 forms. Changes with the game season
@@ -1131,11 +1218,12 @@ This is a good step forward, the bad thing is that they are still releasing 2 di
         - Black Kyurem
         - White Kyurem
         - Keldeo
-- Pokemon Events
-    - For this generation these Pokemon have in-game events
+- [UPDATED] Pokemon Events
+    - For this generation there are even more Pokemon events and I added more sections for them. Althought this section is incomplete.
         - Victini
             - Limited, you need a Liberty Pass
-        - Reshiram/Zekrom
+        - Reshiram
+        - Zekrom
         - Zorua
         - Zoroark along with the chosen Gen 2 Legendary Beast
         - Keldeo
@@ -1149,6 +1237,7 @@ This is a good step forward, the bad thing is that they are still releasing 2 di
         - Kyurem
         - Volcarona (Not a legendary and it's awesome to have this in the game)
         - Musharna (Not a legendary as well, but interesting because the Dream World its important for this game's lore)
+        - Shiny Haxorus
     - Roaming Pokemon
         - Tornadus
         - Thundurus
@@ -1458,7 +1547,7 @@ This is a good step forward, the bad thing is that they are still releasing 2 di
                 - Super format has different trainers than the normal train.
                 - Super format use Pokemon from all 5 generations.
         - Bosses are Ingo and Emmet
-- [Updated] Trainer Card
+- [UPDATED] Trainer Card
     - Defeat Ghetsis and Team Plasma
     - Complete the National Dex, excluding the Mythical Pokemon
     - Collect all 100 Pokemon Musical Props
@@ -1554,6 +1643,7 @@ Nintendo 3DS: 2013
 - Sadly these games were notorious to have frame-drops. Even turning on the 3D mode would hurt frames.
 - Added the Fairy type.
     - Remember: Last time types were added was back in Gen 2
+    - Like Second generation, Pokemon were reworked with this new type. (Eg. Jigglypuff is now Fairy Type )
     - Total Types: 18
 - [UPDATED] Player movement.
     - After 5 generations, players can now move in 8 different directions, when walking and running.
@@ -1641,7 +1731,15 @@ Nintendo 3DS: 2013
     - Rotate upside down your 3DS
     - Have bonding using Pokemon Amie
     - Level up during rain
-- Pokemon Battles
+- [UPDATED] Pokemon Events
+    - Snorlax
+    - Lapras
+    - Xernas [X ONLY]
+    - Yveltal [Y ONLY]
+    - Zygarde
+    - Mewtwo
+    - One Legendary Bird Roams
+- [UPDATED] Pokemon Battles
     - [IMPORTANT] Added The Mega-Evolutions
         - Total of 50 mega-evolutions (with Primal Reversion) with the remakes
         - Need of a special item that has to be held in order to enable mega-evolution/primal-reversion.
@@ -2017,6 +2115,7 @@ Here's the next list of features, covering the Seventh generation. Only Sun/Moon
             - There's an arrow that points where you are looking at.
             - What you see on the touch screen at first it's a minimap.
                 - Tapping the Map section will open a new screen with a detailed section of the map, like any Town Map since generation 1, but since this is generation 7, there's even more information about thing.
+- [REMOVED] Alola and Johto are the only regions that didn't introduce new Fossils.
 - [REMOVED] Roller Blades. And with them, more exploration mechanics.
 - [REMOVED] Field Moves (HMs and others)
     - Any kind of field move has been removed from the game. A first impression to people would that this could eliminate exploration in the games, but not neccesarily, there can be other game design systems to replace the field moves, which, they actually were implemented in the game. Sadly there are many moves that are missing in the game, and in fact, yeah, some exploration has been removed from the game.
@@ -2069,6 +2168,32 @@ Here's the next list of features, covering the Seventh generation. Only Sun/Moon
         - The third form is called "Ultra Necrozma", but the gimmick here its that it needs to be transformed in either "Dusk Mane" or "Dusk Wings". Make it hold the "Ultranecrozium Z" and then use the move "Ultra Burst" in the Battle screen and it will transform. It works like a Mega Evolution or Primal Reversion.
 - [UPDATED] Pokemon rebalaced stats
     - 26 Pokemon have their stats rebalanced
+- [UPDATED] Pokemon Events
+    - Alolan Exeggutor
+    - Guardian Deities
+        - Tapu Koko
+        - Tapu Lele
+        - Tapu Bulu
+        - Tapu Fini
+    - Cosmog
+    - Solgaleo [SUN ONLY]
+    - Lunala [MOON ONLY]
+    - Necrozma
+    - Sandygast
+    - Ultra Beasts
+        - Ultra Beasts are just roaming an specific area and don't have an overworld sprite in the Normal Versions
+        - Ultra Beasts have an Overworld Model in the Ultra Versions. This just gives me the feeling of how lazy and unethical this feels.
+            - Nihilego
+            - Buzzwole [SUN ONLY]
+            - Pheromosa [MOON ONLY]
+            - Xurkitree
+            - Kartana [SUN ONLY]
+            - Celesteela [MOON ONLY]
+            - Blacephalon [ULTRA SUN ONLY]
+                - Doesn't have an Overworld model for some inconsistent game-design reason.
+            - Stakataka [ULTRA MOON ONLY]
+                - Doesn't have an Overworld model for some inconsistent game-design reason.
+
 - [IMPORTANT] Only some Mega-stones were added at Launch and can be obtainable in the game.
     - While it's true that Mega-evolution is not what this game is about, it's fair to add these items, since they are part of the Pokemon legacy.
     - Some Mega stones were distributed via Mistery Gift. This is an issue as new players won't have any way to get the missing Mega evolution stones.
@@ -2446,6 +2571,8 @@ Pokemon now moved to the Home Consoles and with it, we can expect that since the
     - [UPDATED] Habitat In-Depth search.
         - [REMOVED] In-Depth Habitat for Routes. There's no minimap anymore, so, you can't use it.
         - The closest thing you will see is the fact that Pokemon that appear in the Wild area show the zone where they appear.
+- [UPDATED] Pokemon fossils
+    - For these games, you are creating fusions of fossils, they seem like abominations but at least it's fresh content.
 - New Evolution Methods
     - A new and interesting evolution method has been added. You need to attach a Sweet to Milcery and then spin your character by rotating the control stick.
         - Milcery's evolution, Alcremie has 63 forms (skins), but there's only 7 Shiny versions, making in total of 70 different Alcremies essentially making the Pokemon with most forms to date, plus one more Gigantamax form.
@@ -2563,6 +2690,22 @@ Pokemon now moved to the Home Consoles and with it, we can expect that since the
     - Key Items
         - [UPDATED] Escape Rope is now a key item.
             - And why would you want an Escape rope, if the dungeons in this game are pretty much empty and they are not even mazes? They don't even have multiple floors.
+- [UPDATED] Pokemon Events
+    - Zacian [SWORD ONLY CATCH]
+        - Story
+            - Appears with Zamazenta for the story event to defeat Eternatus
+        - Post Story
+            - You fight him first in Shield, and then leaves so Hop can capture it.
+            - You fight him last in Sword, you can capture it in this battle.
+    - Zamazenta [SWITCH ONLY CATCH]
+        - Story
+            - Appears with Zacian for the story event to defeat Eternatus
+        - Post Story
+            - You fight him first in Sword, and then leaves so Hop can capture it.
+            - You fight him last in Shield, you can capture it in this battle.
+    - Eternatus
+        - Appears as a Dynamaxed Pokemon Boss
+    - That's it, nothing more, there's no more lore or any other Pokemon that fits the adventure.
 - Added Exclusive Gym Leaders, again.
     - Last time we different content in versions regarding of story was in Pokemon BW, with Drayden and Iris, but they also added the Black City and White Forest. This game only adds different gym leaders
     - Sword exclusive
