@@ -28,3 +28,7 @@
 
 * [Introduction](fireplace-development/introduction.md)
 
+## Javascript
+
+* [String Cheat Sheet](javascript/string-cheat-sheet.md)
+
