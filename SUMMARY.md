@@ -32,3 +32,7 @@
 
 * [String Cheat Sheet](javascript/string-cheat-sheet.md)
 
+---
+
+* [New Draft Page](new-draft-page.md)
+
