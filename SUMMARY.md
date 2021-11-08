@@ -18,8 +18,7 @@
 
 * [Game Logo](game-components/game-logo.md)
 * [Legal Information](game-components/legal-information.md)
-* [Selection Menu](game-components/selection-menu/README.md)
-  * [Advance Wars](game-components/selection-menu/advance-wars.md)
+* [Selection Menu](game-components/selection-menu.md)
 
 ## 🖥 Game Screens
 
