@@ -38,4 +38,5 @@
 
 ## 🖥 Game Screens
 
-* [Title Screens](game-screens/title-screens.md)
+* [Title Screens](game-screens/title-screens/README.md)
+  * [Final Fantasy XIII](game-screens/title-screens/final-fantasy-xiii.md)

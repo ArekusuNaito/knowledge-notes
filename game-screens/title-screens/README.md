@@ -2,7 +2,7 @@
 
 Here I will show descriptions of `Title Screen` components. For example, consider this Title Screen.
 
-![Final Fantasy XIII](<../.gitbook/assets/image (4).png>)
+![Final Fantasy XIII](<../../.gitbook/assets/image (4).png>)
 
 ### Component List
 
