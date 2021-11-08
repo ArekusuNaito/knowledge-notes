@@ -40,3 +40,8 @@
 
 * [Title Screens](game-screens/title-screens/README.md)
   * [Final Fantasy XIII](game-screens/title-screens/final-fantasy-xiii.md)
+
+## Game Components
+
+* [Legal Information](game-components/legal-information.md)
+* [Game Logo](game-components/game-logo.md)

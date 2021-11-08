@@ -1,5 +1,5 @@
 ---
-cover: ../../.gitbook/assets/image (4).png
+cover: ../../.gitbook/assets/final fantasy title screen
 coverY: 0
 ---
 
@@ -11,8 +11,11 @@ coverY: 0
 
 ## Components
 
-* Game Logo
+* [Game Logo](../../game-components/game-logo.md)
 * Menu List
 * Menu Cursor
 * Legal Information
-*
+
+
+
+### Game Logo
