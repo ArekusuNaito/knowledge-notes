@@ -14,34 +14,39 @@
 * [Components of a Top Down Game 🎮 \~ A Legend of Zelda Case Study](game-design/components-of-a-top-down-game-a-legend-of-zelda-case-study.md)
 * [Patch Notes on Every Pokemon Generation](game-design/software-engineering-exercise-patch-notes-on-every-pokemon-generation.md)
 
+## Game Components
+
+* [Game Logo](game-components/game-logo.md)
+* [Legal Information](game-components/legal-information.md)
+* [Selection Menu](game-components/selection-menu/README.md)
+  * [Advance Wars](game-components/selection-menu/advance-wars.md)
+
+## 🖥 Game Screens
+
+* [Title Screen](game-screens/title-screen/README.md)
+  * [Final Fantasy XIII](game-screens/title-screen/final-fantasy-xiii.md)
+* [Input Name Screen](game-screens/input-name-screen/README.md)
+  * [Advance Wars](game-screens/input-name-screen/advance-wars.md)
+
 ## Systems
 
 * [System](systems/system.md)
 * [Inventory](systems/inventory.md)
 * [Bakery](systems/bakery.md)
 
-## References <a href="finally" id="finally"></a>
+## Javascript
 
-* [References](finally/references.md)
+* [String Cheat Sheet](javascript/string-cheat-sheet.md)
 
 ## Fireplace Development
 
 * [Introduction](fireplace-development/introduction.md)
 
-## Javascript
+## References <a href="finally" id="finally"></a>
 
-* [String Cheat Sheet](javascript/string-cheat-sheet.md)
+* [References](finally/references.md)
 
-***
+## End Group
 
-* [New Draft Page](new-draft-page.md)
-
-## 🖥 Game Screens
-
-* [Title Screens](game-screens/title-screens/README.md)
-  * [Final Fantasy XIII](game-screens/title-screens/final-fantasy-xiii.md)
-
-## Game Components
-
-* [Legal Information](game-components/legal-information.md)
-* [Game Logo](game-components/game-logo.md)
+* [Page 2](end-group/page-2.md)
+* [Page 1](end-group/page-1.md)

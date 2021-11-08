@@ -1,2 +1,0 @@
-# New Draft Page
-

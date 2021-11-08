@@ -1,4 +1,4 @@
-# Title Screens
+# Title Screen
 
 Here I will show descriptions of `Title Screen` components. For example, consider this Title Screen.
 
@@ -9,7 +9,7 @@ Here I will show descriptions of `Title Screen` components. For example, conside
 * [The Game Logo](../../game-components/game-logo.md)
 * [Instruction Text](./#instruction-text)
 * The Selection Menu
-* [The Game Version](./#undefined)
+* [The Game Version](./#game-version)
 * [The Legal Information](../../game-components/legal-information.md)
 
 Not all games have a selection menu under the Title Screens. They sometimes transition to the next screen, like Super Smash Bros. Ultimate
