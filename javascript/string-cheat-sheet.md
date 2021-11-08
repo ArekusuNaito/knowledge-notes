@@ -2,7 +2,7 @@
 
 ## Static Methods
 
-### String.fromCharCode\(args...\)
+### String.fromCharCode(args...)
 
 Given a set of comma separeted chars, it will return a built string.
 
@@ -13,11 +13,11 @@ E.g. => String.fromCharCode(75, 101, 114, 110, 101, 108) => Kernel
 
 Note: You can use stuff like: `\U+000+`.
 
-### String.fromCodePoint\(args...\)
+### String.fromCodePoint(args...)
 
-Basically an upgraded version of `String.fromCharCode()` you can use Unicode Characters from Emoji and they will print out. 
+Basically an upgraded version of `String.fromCharCode()` you can use Unicode Characters from Emoji and they will print out.&#x20;
 
-The Unicode for 🎮 is `U+1F3AE`, in Javascript you will get this by using `0x1F3AE`. The following code _**works for**_   ****`fromCodePoint()`, but it doesn't return the emoji properly, that's why I say it's an upgraded version.
+The Unicode for 🎮 is `U+1F3AE`, in Javascript you will get this by using `0x1F3AE`. The following code _**works for **_**  **`fromCodePoint()`, but it doesn't return the emoji properly, that's why I say it's an upgraded version.
 
 Note: This was introduced in ES6.
 
@@ -27,7 +27,7 @@ String.fromCodePoint(0x1F3AE); => 🎮 //Unicode: 0x1F3AE
 
 ## Instance Methods / Properties
 
-If you wanna know what a `"kernel".something()` does, these are the methods you are looking for.
+If you wanna know what a `"kernel".something() `does, these are the methods you are looking for.
 
 ### .length
 
@@ -37,7 +37,7 @@ If you wanna know the size of a string. This is what you are looking for.
 "Kernel".length => 6 ,  "Nintendo".length => 8
 ```
 
-### .charAt\(position:number\)
+### .charAt(position:number)
 
 If you wanna know what character is at an specific position of your string. Negative numbers are not usable.
 
@@ -51,18 +51,18 @@ You can also use a short-hand similar to other languages. Remember that strings 
 "Dog"[0] => 'D'
 ```
 
-### .charCodeAt\(position:number\)
+### .charCodeAt(position:number)
 
-If you wanna know what is the _Character Code_ from a string, you can get it.
+If you wanna know what is the _Character Code _from a string, you can get it.
 
 ```javascript
 // What's the character code for: N?
 "Nintendo".charCodeAt(0) =>
 ```
 
-Note: The "inverse" function to get character given a code \(number\)  would be: [String.fromCharCode\(args\)](string-cheat-sheet.md#string-fromcharcode-args)
+Note: The "inverse" function to get character given a code (number)  would be: [String.fromCharCode(args)](string-cheat-sheet.md#string-fromcharcode-args)
 
-### .codePointAt\(position:number\)
+### .codePointAt(position:number)
 
 Very similar to [`charCodeAt(position:number)`](string-cheat-sheet.md#charcodeat-position-number) however, it will normally be used for emojis/icons or very special and unique characters.
 
@@ -70,9 +70,9 @@ Very similar to [`charCodeAt(position:number)`](string-cheat-sheet.md#charcodeat
 '🎮💻'.codePoint(0) =>//127918: Which is 🎮's char Code
 ```
 
-Note: The "inverse" function to get character given a code \(number\)  would be: [String.fromCodePoint\(args\)](string-cheat-sheet.md#string-fromcodepoint-args)
+Note: The "inverse" function to get character given a code (number)  would be: [String.fromCodePoint(args)](string-cheat-sheet.md#string-fromcodepoint-args)
 
-### .concat\(anotherString, \[...moreStrings\] \)
+### .concat(anotherString, \[...moreStrings] )
 
 This is a "long-hand" version of using the `+` operator. With this function you will combine/fusion strings. For example if you have three strings like:
 
@@ -101,7 +101,7 @@ console.log(chocoCake); => "Chocolate Cake"
 
 Notice how this has more legibility and we easily added that extra space.
 
-I found an extra special thing, if you have an array of strings, you can just use the spread operator \(`...`\) to `reduce` them to a single string.
+I found an extra special thing, if you have an array of strings, you can just use the spread operator (`...`) to `reduce` them to a single string.
 
 ```javascript
 const manyWords = ["Kirby","of","the","Stars"]
@@ -109,9 +109,9 @@ const manyWords = ["Kirby","of","the","Stars"]
 console.log(...manyWords); // => Kirby of the Stars
 ```
 
-### .includes\(stringYouLookingFor:string, positionToStartLooking:number\)
+### .includes(stringYouLookingFor:string, positionToStartLooking:number)
 
-Do you wanna know if a word is inside a paragraph, or just string of any size? You can do it with this function. 
+Do you wanna know if a word is inside a paragraph, or just string of any size? You can do it with this function.&#x20;
 
 Note: This is case-sensitive. You can transform to lower or upper case to cut-corners.
 
@@ -132,7 +132,7 @@ console.log( paragraphOne.includes("Kirby",0)  ); //=>True
 
 ```
 
-### .endsWith\(stringYouLookingFor:string, length:number\)
+### .endsWith(stringYouLookingFor:string, length:number)
 
 If you wanna check for a string to end with an specific string you can use this one. For example, a question.
 
@@ -153,7 +153,7 @@ console.log(sentence.endsWith('s',4) ); //=>true ✔
 
 ```
 
-### .indexOf\(stringYouLookingFor:string,position:number\)
+### .indexOf(stringYouLookingFor:string,position:number)
 
 In a way, it is useful like the `.includes()` method. But this one will return the `index/position` in the string, which, don't forget is an `array` of characters.
 
@@ -174,11 +174,11 @@ console.log(sentence.indexOf('s',3) ); //=> 3
 
 
 
-### .lastIndexOf\(stringYouAreLookingFor:string, positionWhereToStartSearch:number\)
+### .lastIndexOf(stringYouAreLookingFor:string, positionWhereToStartSearch:number)
 
 The opposite of `indexOf` as we start looking for the given input in backwards order.
 
-_Notes: Second Argument ~ Optional. The position where to start the search \(searching backwards\). If omitted, the default value is the length of the string. In other words: We ignore everything to the right of the index argument. Still look backwards._
+_Notes: Second Argument \~ Optional. The position where to start the search (searching backwards). If omitted, the default value is the length of the string. In other words: We ignore everything to the right of the index argument. Still look backwards._
 
 ```javascript
 const sentence = "Dogs want to eat Hot Dogs 🌭";
@@ -211,7 +211,7 @@ console.log('Tenebrae 6','Tenebrae'.lastIndexOf('e',6) ); //=>  3
 console.log('Tenebrae 7','Tenebrae'.lastIndexOf('e',7) ); //=> 7
 ```
 
-### .localeCompare\(stringComparedAgainst:string,  ...locales,options\)
+### .localeCompare(stringComparedAgainst:string,  ...locales,options)
 
 To further research. From what I get, this will help to compare strings between diferent languages. And it will tell you whether if its before or after regarding the sorting on character codes.
 
@@ -229,15 +229,15 @@ console.log(a.localeCompare(b, 'en', { sensitivity: 'base' }));
 
 
 
-### .trim\(\)
+### .trim()
 
 This removes white-spaces from the ends of a string. This should not remove whitespaces between characters.
 
 
 
-### .replace\(\)
+### .replace()
 
-This returns a new string given a `pattern/regular expression` given. 
+This returns a new string given a `pattern/regular expression` given.&#x20;
 
 ```javascript
 const sentence = "Cats are Awesome!, Cats are Cool!";
@@ -248,7 +248,7 @@ console.log('New Sentence',newSentence)
 console.log('Regex Sentence',regexSentence);
 ```
 
-### .slice\(startPosition:number,endPosition:number\)
+### .slice(startPosition:number,endPosition:number)
 
 Extracts a `slice` or portion of a string, you will end up with a `substring` of the original string. Imagine that you are getting a slice of the whole cake 🎂.
 
@@ -260,7 +260,7 @@ const sliceString = sentence.slice(wordIndex,wordIndex+wordToLook.length);
 console.log(sliceString);
 ```
 
-### .split\(separator:string\)
+### .split(separator:string)
 
 Splits the string into an array given a separator. For example, when you want to get the words from a sentence, or you want the individual characters of a word.
 
@@ -276,7 +276,7 @@ console.log(characters)
 console.log(words.join('-'));
 ```
 
-### substr\(positionToStart:number,numOfCharactersToInclude:number\)
+### substr(positionToStart:number,numOfCharactersToInclude:number)
 
 Similar to slice. You can find and get a slice/substring giving an `index/position` and how many characters you want after that. Personally this one makes a lot of sense to be the actual slice function.
 
@@ -289,4 +289,3 @@ const foundWord = sentence.substr(index,wordToSearch.length);
 console.log(foundWord)
 
 ```
-
