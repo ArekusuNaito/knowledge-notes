@@ -18,14 +18,17 @@
 
 * [Game Logo](game-components/game-logo.md)
 * [Legal Information](game-components/legal-information.md)
-* [Selection Menu](game-components/selection-menu.md)
+* [Selection Menu](game-components/selection-menu/README.md)
+* [Page 3](game-components/page-3.md)
 
 ## 🖥 Game Screens
 
 * [Title Screen](game-screens/title-screen/README.md)
+  * [Page 4](game-screens/title-screen/page-4.md)
   * [Final Fantasy XIII](game-screens/title-screen/final-fantasy-xiii.md)
-* [Input Name Screen](game-screens/input-name-screen/README.md)
-  * [Advance Wars](game-screens/input-name-screen/advance-wars.md)
+* [Name Input Screen](game-screens/name-input-screen/README.md)
+  * [Advance Wars](game-screens/name-input-screen/advance-wars.md)
+* [File Select Screen](game-screens/file-select-screen.md)
 
 ## Systems
 
@@ -33,13 +36,14 @@
 * [Inventory](systems/inventory.md)
 * [Bakery](systems/bakery.md)
 
+## Game Actions
+
+* [Create a File](game-actions/create-a-file.md)
+* [Change to another Screen](game-actions/change-to-another-screen.md)
+
 ## Javascript
 
 * [String Cheat Sheet](javascript/string-cheat-sheet.md)
-
-## Fireplace Development
-
-* [Introduction](fireplace-development/introduction.md)
 
 ## References <a href="finally" id="finally"></a>
 
@@ -49,3 +53,7 @@
 
 * [Page 2](end-group/page-2.md)
 * [Page 1](end-group/page-1.md)
+
+## Fireplace Development
+
+* [Introduction](fireplace-development/introduction.md)
