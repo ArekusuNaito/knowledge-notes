@@ -44,7 +44,8 @@
 
 ## Game Data
 
-* [Save File](game-data/save-file.md)
+* [Save File](game-data/save-file/README.md)
+  * [Majora's Mask - JSON Save File Example](game-data/save-file/majoras-mask-json-save-file-example.md)
 * [Health](game-data/health.md)
 
 ## Javascript

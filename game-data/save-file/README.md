@@ -20,8 +20,3 @@ A `Save File` is a special file that contains all the progress data for a player
     * Eg. Owl Save Statues `ON/OFF` on Majora's Mask
 * Which Bosses have been defeated
 
-### Simulated JSON Majora's Mask Save File
-
-The following is an example of a Majora's Mask Save File data.
-
-{% embed url="https://gist.github.com/ArekusuNaito/a3eb59b61eb888eb9489d6a62c87c676#file-majorasavefile-01-json" %}
