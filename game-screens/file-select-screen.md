@@ -22,6 +22,8 @@ Players can usually do the following
 * Delete a File
   * To Reset their progress
 
+With the previous being mentioned, you can also check the exercise for player's data
+
 ## Examples
 
 ### The Legend of Zelda&#x20;
@@ -78,7 +80,7 @@ Regarding this screen. This big layout has 2 UI components "inside". The File Se
 
 ### Majora's Mask - Fan's Demake
 
-![](<../.gitbook/assets/image (4).png>)
+![](<../.gitbook/assets/majora's mask fanmade screen>)
 
 #### Information
 
